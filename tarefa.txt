@@ -1,0 +1,17 @@
+ 1 Crie uma pasta no computador para organizar todos os arquivos da atividade;-ok
+
+ 2 Dentro dessa pasta, crie um arquivo chamado index.html e monte a estrutura básica de um documento HTML (<!DOCTYPE html>, <html>, <head>, <body>);-ok
+
+ 3 No <body> do arquivo index.html, adicione links para cada exercício da atividade utilizando a tag <a>. Esses links serão responsáveis por abrir os arquivos individuais onde cada exercício será testado;-ok
+
+ 4 Para o Exercício 1, crie um arquivo chamado exercicio1.html, adicione a estrutura básica de um documento HTML e, dentro do <body>, inclua a tag <script> onde ficará o código JavaScript do exercício;-ok
+
+5 No arquivo exercicio1.html, escreva a função solicitada (como a função que recebe dois números e retorna a multiplicação). Declare a função usando a sintaxe correta, implemente a lógica e utilize alert() ou console.log() para exibir o resultado;-ok
+
+6 Para os exercícios seguintes (por exemplo, o da potência e os exercícios da aula anterior reimplementados com funções), repita o processo: criar um novo arquivo HTML (ex.: exercicio2.html, exercicio3.html), montar a estrutura base do HTML, adicionar a tag <script> e implementar a função correspondente ao exercício solicitado;
+
+7 Certifique-se de que cada função esteja funcionando corretamente chamando-a no final do script e exibindo seu retorno usando alert() ou console.log();
+
+8 Sempre que terminar um exercício, abra o arquivo HTML no navegador para testar o funcionamento da função e garantir que tudo está rodando como esperado;
+
+OBS.: Se houver qualquer dúvida durante a montagem dos arquivos, na gravação da aula 08 há um exemplo completo mostrando exatamente como criar os HTMLs dos exercícios, como adicionar a tag <script> e como organizar a pasta da atividade. Basta acompanhar o vídeo para ver o processo passo a passo.
